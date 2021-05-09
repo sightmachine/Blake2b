@@ -23,7 +23,7 @@
 
     <groupId>ove</groupId>
     <artifactId>ove.blake2b</artifactId>
-    <version>alpha.0</version>
+    <version>20210509.1-varhandles</version>
     <name>ove-blake2b</name>
     <description>A Java implementation of the Blake2b digest</description>
 
